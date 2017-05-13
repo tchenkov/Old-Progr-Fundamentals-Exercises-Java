@@ -9,7 +9,7 @@ public class P17_PrintPartOf_ASCII_Table {
         int startIndex = Integer.parseInt(scan.nextLine());
         int endIndex = Integer.parseInt(scan.nextLine());
         for (int i = startIndex; i <= endIndex; i++) {
-            System.out.print("" + (char) i + " ");
+            System.out.print((char) i + " ");
         }
     }
 }
