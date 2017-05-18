@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by todor on 18.05.2017 г..
  */
-public class PP08_MultiplyEvensByOdds {
+public class P08_MultiplyEvensByOdds {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int intNumber = Integer.parseInt(scan.nextLine());
